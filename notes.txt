@@ -1,0 +1,2 @@
+What is java?
+Java is high level oop langauage.java known as platform independent lanuage developed by sun microsystem.
